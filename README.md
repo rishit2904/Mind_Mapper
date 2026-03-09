@@ -139,4 +139,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-Developed with ❤️ by [Rishit Girdhar](https://github.com/rishit2904)
+Developed with ❤️ by [Rishit](https://github.com/rishit2904)
